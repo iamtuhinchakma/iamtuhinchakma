@@ -2,8 +2,8 @@
 <h3 align="center">I am a Learner, Climate Activist from Bangladesh!</h3> <br>
 
 🥅 2023 Goals:<br>
-🧑‍💻 Revised C/C++ again (Within Sep 15)<br>
-🧑‍💻 Start to solve problem-solving (Within Sep 30)<br>
+🧑‍💻 Revised C/C++ again (Within Sep 15) -- [Done --- Continue]<br>
+🧑‍💻 Start to solve problem-solving (Within Sep 30) [Done - started]<br>
 🧑‍💻 To solve 350+ problem on Codeforces<br>
 
 
