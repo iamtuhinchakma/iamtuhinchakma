@@ -4,7 +4,8 @@
 🥅 2023 Goals:<br>
 🧑‍💻 Revised C/C++ again (Within Sep 15) -- [Done --- Continue]<br>
 🧑‍💻 Start to CP (Within Sep 30) [Done - started]<br>
-🧑‍💻 To solve 350+ problem on Codeforces<br>
+🧑‍💻 To solve 350+ problems on Codeforces and participate regularly in contest<br>
+🧑‍💻 Become a color-coder within 1.5 years <br>
 
 
 ## 🌐 Socials:
