@@ -6,7 +6,7 @@
 🧑‍💻 Start to CP (Within Sep 30) [Done - started]<br>
 🧑‍💻 To solve 350+ problems on Codeforces and participate regularly in contest<br>
 🧑‍💻 Become a color-coder within 1.5 years <br>
-
+🧑‍💻 Become a SEO Expert <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamtuhinchakma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamtuhinchakma) 
