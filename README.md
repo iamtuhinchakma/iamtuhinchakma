@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuhin Chakma</h1>
-<h3 align="center">I am a Learner from Bangladesh!</h3> <br>
+<h3 align="center">I am a Learner, Graphic Designer, Programmer and SEO Expert from Bangladesh!</h3> <br>
 
 🥅 2023 Goals:<br>
 🧑‍💻 Revised C/C++ again (Within Sep 15) -- [Done --- Continue]<br>
